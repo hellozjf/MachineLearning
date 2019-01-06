@@ -9,3 +9,5 @@
 /playML/__pycache__/kNN.cpython-37.pyc
 /playML/__pycache__/metrics.cpython-37.pyc
 /playML/__pycache__/model_selection.cpython-37.pyc
+/playML/__pycache__/LinearRegression.cpython-37.pyc
+/playML/__pycache__/SimpleLinearRegression.cpython-37.pyc
